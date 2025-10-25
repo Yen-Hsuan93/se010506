@@ -1,7 +1,6 @@
 # Gutenberg Web Scraping
 
-這是一個使用 **Python** 撰寫的爬蟲程式，用來從 [Project Gutenberg](https://www.gutenberg.org/browse/languages/zh) 擷取中文書籍內容。  
-程式會自動建立書單、下載書籍全文，並清除沒有中文或英文內容的檔案。  
+本專案為一個使用 Python 撰寫的爬蟲程式，從 Project Gutenberg擷取中文書籍內容。
 
 ---
 
@@ -9,7 +8,8 @@
 
 - 擷取古登堡中文書籍清單  
 - 抓取每本書的線上閱讀連結  
-- 下載書籍文字內容（.txt）  
+- 下載書籍文字內容（.txt） 
+- 本專案以練習 Python 網頁爬蟲與資料清理使用。
 
 ---
 
